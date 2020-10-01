@@ -1,5 +1,6 @@
 /*
  * Module dependencies
+ *Guides apps
  */
 var express = require('express')
   , stylus = require('stylus')
